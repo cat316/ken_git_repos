@@ -11,3 +11,17 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+
+Step 1: Enable GitHub Pages
+
+Welcome to GitHub pages and Jekyll
+
+Step 1: Enable GitHub Pages
+
+Welcome to GitHub pages and Jekyll
+
+If you're new to GitHub Pages, or you want to learn how to build and host a GitHub Pages site, you're in the right place. With GitHub Pages, you can host content like documentation, resumes, or any other static content that you'd like.
+
+New to Github?
+
+For this course, you'll need to know how to create a branch on GitHub, 
